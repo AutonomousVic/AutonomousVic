@@ -6,7 +6,7 @@
 
 ---
 
-I lead **Tespen Robotics**, a deep-tech company developing autonomous systems and intelligent infrastructure solutions. After years at the intersection of investment banking, strategic consulting, and large-scale infrastructure development, I made a calculated pivot — or a reckless one, depending on who you ask — toward robotics and autonomous technologies.
+I lead **Tespen Robotics**, a deep-tech company developing autonomous systems and intelligent infrastructure solutions. After years at the intersection of investment banking, strategic consulting, and large-scale infrastructure development, I made a calculated pivot - or a reckless one, depending on who you ask - toward robotics and autonomous technologies.
 
 Before robots took over my life, I spent a decade deploying **$2B+ across infrastructure and clean energy projects** in Europe, North Africa, Sub-Saharan Africa, the Middle East, Asia Minor, Oceania, and the United States. Turns out, building things that last is addictive.
 
@@ -38,4 +38,4 @@ Before robots took over my life, I spent a decade deploying **$2B+ across infras
 
 ---
 
-*Open to conversations about autonomous systems, deep-tech investment, and infrastructure of all kinds — physical and digital. Also always up for a coffee if you happen to be in SF.*
+*Open to conversations about autonomous systems, deep-tech investment, and infrastructure of all kinds - physical and digital. Also always up for a coffee if you happen to be in SF.*
