@@ -1,8 +1,8 @@
 # Vittorio Dini
 
-**CEO & Co-Founder · [Tespen Robotics](https://github.com/Tespen-Robotics)**
+**CEO & Co-Founder · [Tespen Robotics](https://tespen.com)**
 
-> *Formerly a banker. Now building robots. Allegedly an improvement.*
+> *BCG. Nomura. Infrastructure M&A. Robots. Career trajectory unclear but directionally correct.*
 
 ---
 
@@ -33,7 +33,7 @@ Before robots took over my life, I spent a decade deploying **$2B+ across infras
 ## 📬 Find me
 
 - 🌐 [vittoriodini.it](https://www.vittoriodini.it)
-- 🏢 [@Tespen-Robotics](https://github.com/Tespen-Robotics)
+- 🏢 [tespen.com](https://tespen.com)
 - 📍 San Francisco, CA
 
 ---
