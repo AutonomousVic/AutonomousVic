@@ -2,7 +2,7 @@
 
 **CEO & Co-Founder · [Tespen Robotics](https://tespen.com)**
 
-> *BCG. Nomura. Infrastructure M&A. Robots. Career trajectory unclear but directionally correct.*
+> *Former Management Consultant, Investment Banker & Infrastructure Investor. Now building robots. Career trajectory unclear but directionally correct.*
 
 ---
 
