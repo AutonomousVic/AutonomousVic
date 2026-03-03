@@ -1,6 +1,9 @@
-# Vittorio Dini
+# Hey, I'm Vittorio!
 
 **CEO & Co-Founder · [Tespen Robotics](https://tespen.com)**
+
+📍 San Francisco
+
 
 > *Fmr. MBB, IB, Infra PE/CorpDev & Berkeley Haas MBA. Now building robots. Career trajectory unclear but directionally correct.*
 
