@@ -20,7 +20,7 @@ Before robots took over my life, I spent a decade deploying **$2B+ across infras
 
 ## 🧠 Background
 
-`Investment Banking` · `Strategic Consulting` · `Infrastructure Finance` · `Clean Energy` · `Autonomous Systems` · `Deep-Tech Ventures`
+`Investment Banking` · `Strategic Consulting` · `Infrastructure Finance` · `Clean Energy` · `Autonomous Systems` · `Deep-Tech Ventures` · `Berkeley Haas MBA`
 
 ## 🌍 Past lives
 
