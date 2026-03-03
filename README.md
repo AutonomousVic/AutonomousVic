@@ -2,7 +2,7 @@
 
 **CEO & Co-Founder · [Tespen Robotics](https://tespen.com)**
 
-> *Former Management Consultant, Investment Banker & Infrastructure Investor. Now building robots. Career trajectory unclear but directionally correct.*
+> *Former MBB, IB & Infra PE/CorpDev. Now building robots. Career trajectory unclear but directionally correct.*
 
 ---
 
