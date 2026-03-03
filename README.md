@@ -2,7 +2,7 @@
 
 **CEO & Co-Founder · [Tespen Robotics](https://tespen.com)**
 
-> *Former MBB, IB & Infra PE/CorpDev. Now building robots. Career trajectory unclear but directionally correct.*
+> *Fmr. MBB, IB & Infra PE/CorpDev | Berkeley Haas MBA. Now building robots. Career trajectory unclear but directionally correct.*
 
 ---
 
